@@ -2,4 +2,16 @@
 
 Proyecto del Laboratorio 01 del curso.
 
-Mi nuevo cambio para practicar commits en Git.
+## Autor
+
+Omar - Laboratorio 01
+
+### Ejmplo de ultimo commit
+
+Tarea terminada
+
+Hola Omar como estas?
+
+Omar alfredo Cruz Velasquez
+
+Hola chau
